@@ -1,0 +1,1886 @@
+[
+  {
+    "data": {
+      "id": "Ernst_Krenek", 
+      "weight": 27.187760637426063
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ton_de_Leeuw", 
+      "weight": 30.19558204305787
+    }
+  }, 
+  {
+    "data": {
+      "id": "George_Rochberg", 
+      "weight": 32.0094509290366
+    }
+  }, 
+  {
+    "data": {
+      "id": "Engelbert_Humperdinck", 
+      "weight": 33.59930060570679
+    }
+  }, 
+  {
+    "data": {
+      "id": "Louis_Vierne", 
+      "weight": 53.94626493505846
+    }
+  }, 
+  {
+    "data": {
+      "id": "Paul_Pisk", 
+      "weight": 16.911659907507676
+    }
+  }, 
+  {
+    "data": {
+      "id": "B\u00e9la_Bart\u00f3k", 
+      "weight": 33.01945580401748
+    }
+  }, 
+  {
+    "data": {
+      "id": "Heinrich_Neuhaus", 
+      "weight": 32.23351708553987
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ralph_Vaughan_Williams", 
+      "weight": 30.40897838258478
+    }
+  }, 
+  {
+    "data": {
+      "id": "Henri_Dutilleux", 
+      "weight": 19.17366110649293
+    }
+  }, 
+  {
+    "data": {
+      "id": "Charles_Wood", 
+      "weight": 18.949594949989674
+    }
+  }, 
+  {
+    "data": {
+      "id": "Karlheinz_Stockhausen", 
+      "weight": 112.10776697046256
+    }
+  }, 
+  {
+    "data": {
+      "id": "Simon_Sechter", 
+      "weight": 41.151937061001334
+    }
+  }, 
+  {
+    "data": {
+      "id": "Th\u00e9odore_Dubois", 
+      "weight": 30.20955950329688
+    }
+  }, 
+  {
+    "data": {
+      "id": "Roger_Sessions", 
+      "weight": 92.46399372799185
+    }
+  }, 
+  {
+    "data": {
+      "id": "Louis_Andriessen", 
+      "weight": 53.349084881727684
+    }
+  }, 
+  {
+    "data": {
+      "id": "Roger_Reynolds", 
+      "weight": 37.664453926499746
+    }
+  }, 
+  {
+    "data": {
+      "id": "Charles_Koechlin", 
+      "weight": 13.806096256387846
+    }
+  }, 
+  {
+    "data": {
+      "id": "Franz_Liszt", 
+      "weight": 56.476346992745114
+    }
+  }, 
+  {
+    "data": {
+      "id": "Robert_Fuchs", 
+      "weight": 36.234196970271555
+    }
+  }, 
+  {
+    "data": {
+      "id": "Otto_Luening", 
+      "weight": 44.33842444520388
+    }
+  }, 
+  {
+    "data": {
+      "id": "Alban_Berg", 
+      "weight": 21.70560867497972
+    }
+  }, 
+  {
+    "data": {
+      "id": "Luigi_Dallapiccola", 
+      "weight": 32.28900013381686
+    }
+  }, 
+  {
+    "data": {
+      "id": "Mario_Davidovsky", 
+      "weight": 31.39060154440857
+    }
+  }, 
+  {
+    "data": {
+      "id": "Howard_Hanson", 
+      "weight": 47.96434834827538
+    }
+  }, 
+  {
+    "data": {
+      "id": "Maria_Curcio", 
+      "weight": 43.74624960301669
+    }
+  }, 
+  {
+    "data": {
+      "id": "Gabriel_Faur\u00e9", 
+      "weight": 56.80633914435724
+    }
+  }, 
+  {
+    "data": {
+      "id": "Edward_Burlingame_Hill", 
+      "weight": 36.242103304651025
+    }
+  }, 
+  {
+    "data": {
+      "id": "Friedrich_Kiel", 
+      "weight": 27.324654389232574
+    }
+  }, 
+  {
+    "data": {
+      "id": "Johann_Sebastian_Bach", 
+      "weight": 40.47981872181706
+    }
+  }, 
+  {
+    "data": {
+      "id": "John_Cage", 
+      "weight": 29.875487533767497
+    }
+  }, 
+  {
+    "data": {
+      "id": "Isabelle_Vengerova", 
+      "weight": 30.593779612615084
+    }
+  }, 
+  {
+    "data": {
+      "id": "Paul_Dukas", 
+      "weight": 37.48413401959951
+    }
+  }, 
+  {
+    "data": {
+      "id": "Maurice_Ravel", 
+      "weight": 17.97864160514223
+    }
+  }, 
+  {
+    "data": {
+      "id": "Carl_Czerny", 
+      "weight": 33.98331702821891
+    }
+  }, 
+  {
+    "data": {
+      "id": "Horatio_Parker", 
+      "weight": 25.957466721151565
+    }
+  }, 
+  {
+    "data": {
+      "id": "Aaron_Copland", 
+      "weight": 56.07767717708853
+    }
+  }, 
+  {
+    "data": {
+      "id": "Gian_Carlo_Menotti", 
+      "weight": 18.13868885978741
+    }
+  }, 
+  {
+    "data": {
+      "id": "Lazare_L\u00e9vy", 
+      "weight": 34.776454565512296
+    }
+  }, 
+  {
+    "data": {
+      "id": "Peter_Mennin", 
+      "weight": 20.496718411559776
+    }
+  }, 
+  {
+    "data": {
+      "id": "Seymour_Shifrin", 
+      "weight": 35.114367669153154
+    }
+  }, 
+  {
+    "data": {
+      "id": "G\u00e9rard_Grisey", 
+      "weight": 31.68935641974624
+    }
+  }, 
+  {
+    "data": {
+      "id": "Albert_Lavignac", 
+      "weight": 31.61355547919021
+    }
+  }, 
+  {
+    "data": {
+      "id": "Alexander_Goehr", 
+      "weight": 32.54294177785388
+    }
+  }, 
+  {
+    "data": {
+      "id": "Nadia_Boulanger", 
+      "weight": 274.495883431903
+    }
+  }, 
+  {
+    "data": {
+      "id": "Robert_Erickson", 
+      "weight": 31.59332806695914
+    }
+  }, 
+  {
+    "data": {
+      "id": "No\u00ebl_Gallon", 
+      "weight": 48.57967669330123
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ludwig_Thuille", 
+      "weight": 23.055579526387703
+    }
+  }, 
+  {
+    "data": {
+      "id": "Goffredo_Petrassi", 
+      "weight": 31.636007334864512
+    }
+  }, 
+  {
+    "data": {
+      "id": "Jacques-Nicolas_Lemmens", 
+      "weight": 19.068108554978227
+    }
+  }, 
+  {
+    "data": {
+      "id": "Paul_Hindemith", 
+      "weight": 66.08137747960082
+    }
+  }, 
+  {
+    "data": {
+      "id": "Moritz_Hauptmann", 
+      "weight": 42.523442057125486
+    }
+  }, 
+  {
+    "data": {
+      "id": "Isidor_Philipp", 
+      "weight": 48.10564873449313
+    }
+  }, 
+  {
+    "data": {
+      "id": "Luciano_Berio", 
+      "weight": 34.37815029778531
+    }
+  }, 
+  {
+    "data": {
+      "id": "Samuel_Adler", 
+      "weight": 41.078795358930314
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ludwig_van_Beethoven", 
+      "weight": 17.269089066681804
+    }
+  }, 
+  {
+    "data": {
+      "id": "Hans_von_Koessler", 
+      "weight": 24.417050306532794
+    }
+  }, 
+  {
+    "data": {
+      "id": "Joseph_Schwantner", 
+      "weight": 33.07643262667116
+    }
+  }, 
+  {
+    "data": {
+      "id": "Randall_Thompson", 
+      "weight": 32.8737061041206
+    }
+  }, 
+  {
+    "data": {
+      "id": "Antonio_Salieri", 
+      "weight": 37.90149500723892
+    }
+  }, 
+  {
+    "data": {
+      "id": "Egon_Petri", 
+      "weight": 31.155865570928967
+    }
+  }, 
+  {
+    "data": {
+      "id": "Otakar_\u0160ev\u010d\u00edk", 
+      "weight": 31.21988447278704
+    }
+  }, 
+  {
+    "data": {
+      "id": "Pauline_Oliveros", 
+      "weight": 29.98218570353096
+    }
+  }, 
+  {
+    "data": {
+      "id": "Walter_Piston", 
+      "weight": 45.53877885504276
+    }
+  }, 
+  {
+    "data": {
+      "id": "Franco_Donatoni", 
+      "weight": 30.40897838258478
+    }
+  }, 
+  {
+    "data": {
+      "id": "Zbigniew_Drzewiecki", 
+      "weight": 31.155865570928967
+    }
+  }, 
+  {
+    "data": {
+      "id": "Franz_Lachner", 
+      "weight": 18.018708795153632
+    }
+  }, 
+  {
+    "data": {
+      "id": "Anton_Reicha", 
+      "weight": 42.579327570898826
+    }
+  }, 
+  {
+    "data": {
+      "id": "Mathilde_Marchesi", 
+      "weight": 42.67926790538215
+    }
+  }, 
+  {
+    "data": {
+      "id": "Olivier_Messiaen", 
+      "weight": 108.11725542130932
+    }
+  }, 
+  {
+    "data": {
+      "id": "Johann_Nepomuk_Hummel", 
+      "weight": 21.318284609204934
+    }
+  }, 
+  {
+    "data": {
+      "id": "Pran_Nath", 
+      "weight": 31.369261910455872
+    }
+  }, 
+  {
+    "data": {
+      "id": "Bernard_Rogers", 
+      "weight": 45.49823355053263
+    }
+  }, 
+  {
+    "data": {
+      "id": "Andr\u00e9_Gedalge", 
+      "weight": 82.18884677301295
+    }
+  }, 
+  {
+    "data": {
+      "id": "Charles-Marie_Widor", 
+      "weight": 58.553224839925555
+    }
+  }, 
+  {
+    "data": {
+      "id": "Boris_Blacher", 
+      "weight": 30.611704905135344
+    }
+  }, 
+  {
+    "data": {
+      "id": "Marcel_Dupr\u00e9", 
+      "weight": 29.163810741445257
+    }
+  }, 
+  {
+    "data": {
+      "id": "Johann_Georg_Albrechtsberger", 
+      "weight": 37.35405337272507
+    }
+  }, 
+  {
+    "data": {
+      "id": "Arnold_Schoenberg", 
+      "weight": 67.12151391772287
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ignaz_Moscheles", 
+      "weight": 35.39811213927034
+    }
+  }, 
+  {
+    "data": {
+      "id": "Stephen_Heller", 
+      "weight": 15.480381849794849
+    }
+  }, 
+  {
+    "data": {
+      "id": "Wolfgang_Fortner", 
+      "weight": 32.08520662956867
+    }
+  }, 
+  {
+    "data": {
+      "id": "Isidor_Seiss", 
+      "weight": 22.415262896795934
+    }
+  }, 
+  {
+    "data": {
+      "id": "Jacob_Druckman", 
+      "weight": 44.919929470414715
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ernest_Bloch", 
+      "weight": 32.60935071871466
+    }
+  }, 
+  {
+    "data": {
+      "id": "Manuel_Garc\u00eda", 
+      "weight": 31.102516486047236
+    }
+  }, 
+  {
+    "data": {
+      "id": "Josef_Rheinberger", 
+      "weight": 38.27852622067113
+    }
+  }, 
+  {
+    "data": {
+      "id": "Nikolai_Rimsky-Korsakov", 
+      "weight": 37.98572542330077
+    }
+  }, 
+  {
+    "data": {
+      "id": "Theodor_Leschetizky", 
+      "weight": 46.00755939786189
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ross_Lee_Finney", 
+      "weight": 35.669198151923126
+    }
+  }, 
+  {
+    "data": {
+      "id": "Jen\u0151_Hubay", 
+      "weight": 32.863036287144254
+    }
+  }, 
+  {
+    "data": {
+      "id": "Vincent_d'Indy", 
+      "weight": 67.66400699782128
+    }
+  }, 
+  {
+    "data": {
+      "id": "Leopold_Auer", 
+      "weight": 30.111290488944736
+    }
+  }, 
+  {
+    "data": {
+      "id": "Jos\u00e9_Rey_de_la_Torre", 
+      "weight": 37.664453926499746
+    }
+  }, 
+  {
+    "data": {
+      "id": "Anna_Yesipova", 
+      "weight": 29.873695004515476
+    }
+  }, 
+  {
+    "data": {
+      "id": "Eusebius_Mandyczewski", 
+      "weight": 17.751587899885596
+    }
+  }, 
+  {
+    "data": {
+      "id": "Vincent_Persichetti", 
+      "weight": 33.67394237734651
+    }
+  }, 
+  {
+    "data": {
+      "id": "Fran\u00e7ois-Joseph_F\u00e9tis", 
+      "weight": 30.725711152640404
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ferruccio_Busoni", 
+      "weight": 52.34057666197408
+    }
+  }, 
+  {
+    "data": {
+      "id": "Claude_Champagne", 
+      "weight": 31.36279514778286
+    }
+  }, 
+  {
+    "data": {
+      "id": "Istv\u00e1n_Thom\u00e1n", 
+      "weight": 19.578821798608907
+    }
+  }, 
+  {
+    "data": {
+      "id": "Darius_Milhaud", 
+      "weight": 134.00009744252833
+    }
+  }, 
+  {
+    "data": {
+      "id": "Roberto_Gerhard", 
+      "weight": 16.99701844331844
+    }
+  }, 
+  {
+    "data": {
+      "id": "John_Weinzweig", 
+      "weight": 46.41370384710308
+    }
+  }, 
+  {
+    "data": {
+      "id": "Leonard_Stein", 
+      "weight": 29.98218570353096
+    }
+  }, 
+  {
+    "data": {
+      "id": "Rosario_Scalero", 
+      "weight": 35.60731321346032
+    }
+  }, 
+  {
+    "data": {
+      "id": "Ernest_Guiraud", 
+      "weight": 32.92291818086609
+    }
+  }, 
+  {
+    "data": {
+      "id": "Lukas_Foss", 
+      "weight": 40.118511831059216
+    }
+  }, 
+  {
+    "data": {
+      "id": "Percy_Goetschius", 
+      "weight": 36.59910471086257
+    }
+  }, 
+  {
+    "data": {
+      "id": "Fritz_Reiner", 
+      "weight": 16.918061797693483
+    }
+  }, 
+  {
+    "data": {
+      "id": "Marion_Bauer", 
+      "weight": 19.189025642938866
+    }
+  }, 
+  {
+    "data": {
+      "id": "Louis_Plaidy", 
+      "weight": 30.555058846807924
+    }
+  }, 
+  {
+    "data": {
+      "id": "Louis_Di\u00e9mer", 
+      "weight": 33.87875762326836
+    }
+  }, 
+  {
+    "data": {
+      "id": "Dorothy_DeLay", 
+      "weight": 33.07643262667116
+    }
+  }, 
+  {
+    "data": {
+      "id": "Salomon_Jadassohn", 
+      "weight": 50.03371603138067
+    }
+  }, 
+  {
+    "data": {
+      "id": "Henry_Cowell", 
+      "weight": 25.724928729969086
+    }
+  }, 
+  {
+    "data": {
+      "id": "Romain-Octave_Pelletier_I", 
+      "weight": 24.475913232733387
+    }
+  }, 
+  {
+    "data": {
+      "id": "Fr\u00e9d\u00e9ric_Chopin", 
+      "weight": 30.109345701404457
+    }
+  }, 
+  {
+    "data": {
+      "id": "Carl_Reinecke", 
+      "weight": 46.80601167768936
+    }
+  }, 
+  {
+    "data": {
+      "id": "Georges_Mathias", 
+      "weight": 31.1789902652618
+    }
+  }, 
+  {
+    "data": {
+      "id": "C\u00e9sar_Franck", 
+      "weight": 32.70970749615456
+    }
+  }, 
+  {
+    "data": {
+      "id": "Louis_Niedermeyer", 
+      "weight": 16.3504504746584
+    }
+  }, 
+  {
+    "data": {
+      "id": "Joseph_Joachim", 
+      "weight": 39.028376630585996
+    }
+  }, 
+  {
+    "data": {
+      "id": "Jean_Gallon", 
+      "weight": 40.40659688942055
+    }
+  }, 
+  {
+    "data": {
+      "id": "Charles_Villiers_Stanford", 
+      "weight": 53.32881222947263
+    }
+  }, 
+  {
+    "data": {
+      "id": "Milton_Babbitt", 
+      "weight": 53.18263573689669
+    }
+  }, 
+  {
+    "data": {
+      "id": "Heinrich_Sch\u00fctz", 
+      "weight": 37.08391398623442
+    }
+  }, 
+  {
+    "data": {
+      "id": "Antoine_Fran\u00e7ois_Marmontel", 
+      "weight": 54.224628082983635
+    }
+  }, 
+  {
+    "data": {
+      "id": "Aleksander_Micha\u0142owski", 
+      "weight": 24.050834446380474
+    }
+  }, 
+  {
+    "data": {
+      "id": "Artur_Schnabel", 
+      "weight": 41.943050534014304
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ernst_Krenek", 
+      "target": "Robert_Erickson"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Louis_Vierne", 
+      "target": "Marcel_Dupr\u00e9"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Louis_Vierne", 
+      "target": "Nadia_Boulanger"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Paul_Pisk", 
+      "target": "Samuel_Adler"
+    }
+  }, 
+  {
+    "data": {
+      "source": "B\u00e9la_Bart\u00f3k", 
+      "target": "Fritz_Reiner"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Henri_Dutilleux", 
+      "target": "G\u00e9rard_Grisey"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles_Wood", 
+      "target": "Ralph_Vaughan_Williams"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Karlheinz_Stockhausen", 
+      "target": "G\u00e9rard_Grisey"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Simon_Sechter", 
+      "target": "Franz_Lachner"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Simon_Sechter", 
+      "target": "Robert_Fuchs"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Simon_Sechter", 
+      "target": "Theodor_Leschetizky"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Th\u00e9odore_Dubois", 
+      "target": "Paul_Dukas"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Roger_Sessions", 
+      "target": "Robert_Erickson"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Roger_Sessions", 
+      "target": "Ross_Lee_Finney"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Roger_Sessions", 
+      "target": "Milton_Babbitt"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles_Koechlin", 
+      "target": "Claude_Champagne"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Franz_Liszt", 
+      "target": "Istv\u00e1n_Thom\u00e1n"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Franz_Liszt", 
+      "target": "Carl_Reinecke"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Robert_Fuchs", 
+      "target": "Eusebius_Mandyczewski"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Otto_Luening", 
+      "target": "Seymour_Shifrin"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Otto_Luening", 
+      "target": "Mario_Davidovsky"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Alban_Berg", 
+      "target": "Ross_Lee_Finney"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Luigi_Dallapiccola", 
+      "target": "Luciano_Berio"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Howard_Hanson", 
+      "target": "Peter_Mennin"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Howard_Hanson", 
+      "target": "John_Weinzweig"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Gabriel_Faur\u00e9", 
+      "target": "Maurice_Ravel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Gabriel_Faur\u00e9", 
+      "target": "Charles_Koechlin"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Gabriel_Faur\u00e9", 
+      "target": "Nadia_Boulanger"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Edward_Burlingame_Hill", 
+      "target": "Ross_Lee_Finney"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Edward_Burlingame_Hill", 
+      "target": "Walter_Piston"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Edward_Burlingame_Hill", 
+      "target": "Roger_Sessions"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Friedrich_Kiel", 
+      "target": "Charles_Villiers_Stanford"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Isabelle_Vengerova", 
+      "target": "Lukas_Foss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Paul_Dukas", 
+      "target": "Walter_Piston"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Paul_Dukas", 
+      "target": "Olivier_Messiaen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Maurice_Ravel", 
+      "target": "Ralph_Vaughan_Williams"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Carl_Czerny", 
+      "target": "Stephen_Heller"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Carl_Czerny", 
+      "target": "Theodor_Leschetizky"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Carl_Czerny", 
+      "target": "Franz_Liszt"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Horatio_Parker", 
+      "target": "Roger_Sessions"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Aaron_Copland", 
+      "target": "Samuel_Adler"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Aaron_Copland", 
+      "target": "Jacob_Druckman"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Aaron_Copland", 
+      "target": "Mario_Davidovsky"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Gian_Carlo_Menotti", 
+      "target": "George_Rochberg"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Lazare_L\u00e9vy", 
+      "target": "Lukas_Foss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Lazare_L\u00e9vy", 
+      "target": "John_Cage"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Lazare_L\u00e9vy", 
+      "target": "Marcel_Dupr\u00e9"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Peter_Mennin", 
+      "target": "Jacob_Druckman"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Seymour_Shifrin", 
+      "target": "Pauline_Oliveros"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Albert_Lavignac", 
+      "target": "Jean_Gallon"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Albert_Lavignac", 
+      "target": "Vincent_d'Indy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Albert_Lavignac", 
+      "target": "Lazare_L\u00e9vy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Maria_Curcio"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Aaron_Copland"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Gian_Carlo_Menotti"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Walter_Piston"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Bernard_Rogers"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Ross_Lee_Finney"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Nadia_Boulanger", 
+      "target": "Marion_Bauer"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Robert_Erickson", 
+      "target": "Pauline_Oliveros"
+    }
+  }, 
+  {
+    "data": {
+      "source": "No\u00ebl_Gallon", 
+      "target": "Lukas_Foss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "No\u00ebl_Gallon", 
+      "target": "Olivier_Messiaen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "No\u00ebl_Gallon", 
+      "target": "Henri_Dutilleux"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ludwig_Thuille", 
+      "target": "Ernest_Bloch"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Goffredo_Petrassi", 
+      "target": "Franco_Donatoni"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Jacques-Nicolas_Lemmens", 
+      "target": "Charles-Marie_Widor"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Paul_Hindemith", 
+      "target": "Lukas_Foss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Paul_Hindemith", 
+      "target": "Samuel_Adler"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Moritz_Hauptmann", 
+      "target": "Salomon_Jadassohn"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Moritz_Hauptmann", 
+      "target": "Joseph_Joachim"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Moritz_Hauptmann", 
+      "target": "Isidor_Seiss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Moritz_Hauptmann", 
+      "target": "Friedrich_Kiel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Isidor_Philipp", 
+      "target": "Aaron_Copland"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Luciano_Berio", 
+      "target": "Louis_Andriessen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ludwig_van_Beethoven", 
+      "target": "Carl_Czerny"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Hans_von_Koessler", 
+      "target": "B\u00e9la_Bart\u00f3k"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Randall_Thompson", 
+      "target": "Lukas_Foss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Randall_Thompson", 
+      "target": "Samuel_Adler"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antonio_Salieri", 
+      "target": "Ignaz_Moscheles"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antonio_Salieri", 
+      "target": "Franz_Liszt"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antonio_Salieri", 
+      "target": "Johann_Nepomuk_Hummel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antonio_Salieri", 
+      "target": "Ludwig_van_Beethoven"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antonio_Salieri", 
+      "target": "Carl_Czerny"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Walter_Piston", 
+      "target": "Samuel_Adler"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Franz_Lachner", 
+      "target": "Josef_Rheinberger"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Anton_Reicha", 
+      "target": "C\u00e9sar_Franck"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Anton_Reicha", 
+      "target": "Franz_Liszt"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Olivier_Messiaen", 
+      "target": "Ton_de_Leeuw"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Olivier_Messiaen", 
+      "target": "G\u00e9rard_Grisey"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Olivier_Messiaen", 
+      "target": "Alexander_Goehr"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Olivier_Messiaen", 
+      "target": "Karlheinz_Stockhausen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Johann_Nepomuk_Hummel", 
+      "target": "Carl_Czerny"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Bernard_Rogers", 
+      "target": "Peter_Mennin"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Bernard_Rogers", 
+      "target": "John_Weinzweig"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Claude_Champagne"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Nadia_Boulanger"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Marion_Bauer"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Lazare_L\u00e9vy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Charles_Koechlin"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Darius_Milhaud"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Andr\u00e9_Gedalge", 
+      "target": "Maurice_Ravel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles-Marie_Widor", 
+      "target": "Darius_Milhaud"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles-Marie_Widor", 
+      "target": "Louis_Vierne"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles-Marie_Widor", 
+      "target": "Olivier_Messiaen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles-Marie_Widor", 
+      "target": "Marcel_Dupr\u00e9"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Marcel_Dupr\u00e9", 
+      "target": "Olivier_Messiaen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Johann_Georg_Albrechtsberger", 
+      "target": "Ignaz_Moscheles"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Johann_Georg_Albrechtsberger", 
+      "target": "Anton_Reicha"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Johann_Georg_Albrechtsberger", 
+      "target": "Johann_Nepomuk_Hummel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Johann_Georg_Albrechtsberger", 
+      "target": "Ludwig_van_Beethoven"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "John_Cage"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "Ernst_Krenek"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "Paul_Pisk"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "Roberto_Gerhard"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "Leonard_Stein"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "Alexander_Goehr"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Arnold_Schoenberg", 
+      "target": "Alban_Berg"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ignaz_Moscheles", 
+      "target": "Aleksander_Micha\u0142owski"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ignaz_Moscheles", 
+      "target": "Louis_Niedermeyer"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Stephen_Heller", 
+      "target": "Isidor_Philipp"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Isidor_Seiss", 
+      "target": "Engelbert_Humperdinck"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ernest_Bloch", 
+      "target": "Roger_Sessions"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ernest_Bloch", 
+      "target": "Bernard_Rogers"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Manuel_Garc\u00eda", 
+      "target": "Mathilde_Marchesi"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Josef_Rheinberger", 
+      "target": "Ludwig_Thuille"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Josef_Rheinberger", 
+      "target": "Horatio_Parker"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Josef_Rheinberger", 
+      "target": "Engelbert_Humperdinck"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Josef_Rheinberger", 
+      "target": "Hans_von_Koessler"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Theodor_Leschetizky", 
+      "target": "Artur_Schnabel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Theodor_Leschetizky", 
+      "target": "Isabelle_Vengerova"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Theodor_Leschetizky", 
+      "target": "Anna_Yesipova"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ross_Lee_Finney", 
+      "target": "Roger_Reynolds"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Vincent_d'Indy", 
+      "target": "Darius_Milhaud"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Anna_Yesipova", 
+      "target": "Isabelle_Vengerova"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Anna_Yesipova", 
+      "target": "Artur_Schnabel"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Eusebius_Mandyczewski", 
+      "target": "Rosario_Scalero"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Fran\u00e7ois-Joseph_F\u00e9tis", 
+      "target": "Jacques-Nicolas_Lemmens"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Fran\u00e7ois-Joseph_F\u00e9tis", 
+      "target": "Charles-Marie_Widor"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ferruccio_Busoni", 
+      "target": "Otto_Luening"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ferruccio_Busoni", 
+      "target": "Egon_Petri"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Istv\u00e1n_Thom\u00e1n", 
+      "target": "B\u00e9la_Bart\u00f3k"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Istv\u00e1n_Thom\u00e1n", 
+      "target": "Fritz_Reiner"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Darius_Milhaud", 
+      "target": "Karlheinz_Stockhausen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Darius_Milhaud", 
+      "target": "Seymour_Shifrin"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Roberto_Gerhard", 
+      "target": "Roger_Reynolds"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Rosario_Scalero", 
+      "target": "Gian_Carlo_Menotti"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Rosario_Scalero", 
+      "target": "Lukas_Foss"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Rosario_Scalero", 
+      "target": "George_Rochberg"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ernest_Guiraud", 
+      "target": "Paul_Dukas"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Ernest_Guiraud", 
+      "target": "Andr\u00e9_Gedalge"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Percy_Goetschius", 
+      "target": "Bernard_Rogers"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Percy_Goetschius", 
+      "target": "Howard_Hanson"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Percy_Goetschius", 
+      "target": "Henry_Cowell"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Fritz_Reiner", 
+      "target": "Vincent_Persichetti"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Marion_Bauer", 
+      "target": "Milton_Babbitt"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Louis_Di\u00e9mer", 
+      "target": "Lazare_L\u00e9vy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Louis_Di\u00e9mer", 
+      "target": "Vincent_d'Indy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Salomon_Jadassohn", 
+      "target": "Ferruccio_Busoni"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Henry_Cowell", 
+      "target": "John_Cage"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Romain-Octave_Pelletier_I", 
+      "target": "Claude_Champagne"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Fr\u00e9d\u00e9ric_Chopin", 
+      "target": "Georges_Mathias"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Carl_Reinecke", 
+      "target": "Ferruccio_Busoni"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Carl_Reinecke", 
+      "target": "Charles_Villiers_Stanford"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Carl_Reinecke", 
+      "target": "Aleksander_Micha\u0142owski"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Georges_Mathias", 
+      "target": "Isidor_Philipp"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Georges_Mathias", 
+      "target": "Paul_Dukas"
+    }
+  }, 
+  {
+    "data": {
+      "source": "C\u00e9sar_Franck", 
+      "target": "Vincent_d'Indy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "C\u00e9sar_Franck", 
+      "target": "Louis_Vierne"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Louis_Niedermeyer", 
+      "target": "Gabriel_Faur\u00e9"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Joseph_Joachim", 
+      "target": "Jen\u0151_Hubay"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Joseph_Joachim", 
+      "target": "Leopold_Auer"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Jean_Gallon", 
+      "target": "Olivier_Messiaen"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Jean_Gallon", 
+      "target": "Henri_Dutilleux"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles_Villiers_Stanford", 
+      "target": "Charles_Wood"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Charles_Villiers_Stanford", 
+      "target": "Ralph_Vaughan_Williams"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Milton_Babbitt", 
+      "target": "Mario_Davidovsky"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antoine_Fran\u00e7ois_Marmontel", 
+      "target": "Ernest_Guiraud"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antoine_Fran\u00e7ois_Marmontel", 
+      "target": "Romain-Octave_Pelletier_I"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antoine_Fran\u00e7ois_Marmontel", 
+      "target": "Th\u00e9odore_Dubois"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antoine_Fran\u00e7ois_Marmontel", 
+      "target": "Louis_Di\u00e9mer"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antoine_Fran\u00e7ois_Marmontel", 
+      "target": "Vincent_d'Indy"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Antoine_Fran\u00e7ois_Marmontel", 
+      "target": "Albert_Lavignac"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Aleksander_Micha\u0142owski", 
+      "target": "Heinrich_Neuhaus"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Artur_Schnabel", 
+      "target": "Maria_Curcio"
+    }
+  }
+]
