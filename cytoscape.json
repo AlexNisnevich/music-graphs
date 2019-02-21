@@ -21301,6 +21301,11 @@
   }, 
   {
     "data": {
+      "id": "Hugo_Kortschak"
+    }
+  }, 
+  {
+    "data": {
       "id": "Dmitry_Smirnov"
     }
   }, 
@@ -62475,6 +62480,12 @@
   {
     "data": {
       "source": "M\u00e1ty\u00e1s_Seiber", 
+      "target": "Max_Rostal"
+    }
+  }, 
+  {
+    "data": {
+      "source": "M\u00e1ty\u00e1s_Seiber", 
       "target": "Malcolm_Lipkin"
     }
   }, 
@@ -64786,6 +64797,12 @@
     "data": {
       "source": "Otakar_\u0160ev\u010d\u00edk", 
       "target": "Jan_Kubel\u00edk"
+    }
+  }, 
+  {
+    "data": {
+      "source": "Otakar_\u0160ev\u010d\u00edk", 
+      "target": "Hugo_Kortschak"
     }
   }, 
   {

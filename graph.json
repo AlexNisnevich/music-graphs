@@ -12781,6 +12781,9 @@
             "id": "William_Hayman_Cummings"
         }, 
         {
+            "id": "Hugo_Kortschak"
+        }, 
+        {
             "id": "Dmitry_Smirnov"
         }, 
         {
@@ -40011,6 +40014,10 @@
         }, 
         {
             "source": "M\u00e1ty\u00e1s_Seiber", 
+            "target": "Max_Rostal"
+        }, 
+        {
+            "source": "M\u00e1ty\u00e1s_Seiber", 
             "target": "Malcolm_Lipkin"
         }, 
         {
@@ -41552,6 +41559,10 @@
         {
             "source": "Otakar_\u0160ev\u010d\u00edk", 
             "target": "Jan_Kubel\u00edk"
+        }, 
+        {
+            "source": "Otakar_\u0160ev\u010d\u00edk", 
+            "target": "Hugo_Kortschak"
         }, 
         {
             "source": "Otakar_\u0160ev\u010d\u00edk", 
