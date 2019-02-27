@@ -12,7 +12,7 @@
             html, body {
                 margin: 0;
                 height: 100%;
-                overflow: hidden;
+                overflow: scroll;
                 font-family: Verdana;
             }
 
@@ -30,23 +30,26 @@
                 font-size: 0.8em;
             }
 
-            #about {
+            #about, #data {
                 position: absolute;
-                top: 0;
                 left: 10px;
                 z-index: 999999;
+                background-color: #fff;
+                opacity: 0.7;
+            }
+
+            #about {
+                top: 0;
             }
 
             #data {
-                position: absolute;
                 bottom: 0;
-                left: 10px;
-                z-index: 999999;
             }
 
             #cy {
-            height: 100vh;
-            display: block;
+                display: block;
+                height: 100vh;
+                min-width: 1500px;
                 background-color: #fff;
             }
         </style>
@@ -56,8 +59,11 @@
             <h1>Who Taught Whom?</h1>
             <h2>Classical music influence from Salieri to Stockhausen</h2>
             <p>
-                Click and hold a node to highlight <span style="color: blue; font-weight: bold;">ancestors</span> <em>(teachers, teachers' teachers, etc)</em>
-                and <span style="color: green; font-weight: bold;">descendants</span> <em>(students, students' students, etc)</em>.
+                Drag to navigate. Two-finger pinch to zoom.
+            </p>
+            <p>
+                Click and hold a node to highlight <span style="color: blue; font-weight: bold;">ancestors</span> <em>(teachers, their teachers, etc)</em>
+                and <span style="color: green; font-weight: bold;">descendants</span> <em>(students, their students, etc)</em>.
             </p>
         </div>
         <div id="data">
