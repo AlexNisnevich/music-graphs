@@ -127,6 +127,13 @@ const elements = [
   },
   {
     "data": {
+      "fullName": "Alexander Zemlinsky",
+      "id": "A. Zemlinsky",
+      "weight": 21.079045814365678
+    }
+  },
+  {
+    "data": {
       "fullName": "Arnold Schoenberg",
       "id": "A. Schoenberg",
       "weight": 50.654900264256106
@@ -1259,7 +1266,19 @@ const elements = [
   {
     "data": {
       "source": "R. Fuchs",
+      "target": "A. Zemlinsky"
+    }
+  },
+  {
+    "data": {
+      "source": "R. Fuchs",
       "target": "E. Mandyczewski"
+    }
+  },
+  {
+    "data": {
+      "source": "A. Zemlinsky",
+      "target": "A. Schoenberg"
     }
   },
   {
