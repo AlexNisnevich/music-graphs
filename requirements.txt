@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
 BeautifulSoup==3.2.1
 beautifulsoup4==4.6.3
-bleach==3.0.2
+bleach==3.3.0
 bs4==0.0.1
 certifi==2018.11.29
 chardet==3.0.4
